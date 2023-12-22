@@ -115,6 +115,7 @@ function equal() {
 
     .btn {
         background: #eee;
+        color: #333;
         border: 1px solid #999;
         font-weight: 600;
 
